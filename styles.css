@@ -1,0 +1,43 @@
+.attribution { font-size: 11px; text-align: center; margin-top: 20px; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: hsl(212, 45%, 89%);
+    margin: 0;
+    padding: 0;
+    max-width: 1440px;
+    max-height: 800px;
+    font-size: 15px;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    max-width: 355px;
+    text-align: center;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.text {
+    margin: 10px auto;
+    width: 80%;
+}
+
+h2 {
+    color: hsl(218, 44%, 22%);
+}
+
+img{
+    border-radius: 10px;
+    width: 90%;
+    margin: 20px 20px 0px 20px;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    margin-bottom: 20px;
+}
