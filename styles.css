@@ -16,13 +16,12 @@ body {
     justify-content: center;
 }
 
-.card {
+main {
     background-color: hsl(0, 0%, 100%);
     width: 320px;
     height: 500px;
     text-align: center;
     border-radius: 20px;
-    margin: 50px auto;
 }
 
 .text {
@@ -30,7 +29,7 @@ body {
     font-size: 15px;
 } 
 
-.frt {
+h2 {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
 }
